@@ -1,0 +1,5 @@
+nodemon run index.js
+post route - body bn ke aayega 
+get route query bn ke aayega 
+
+postman use as fronted
